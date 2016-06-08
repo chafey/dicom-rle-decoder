@@ -1,0 +1,2 @@
+# RLEDecoder
+JavaScript RLE Decoder
